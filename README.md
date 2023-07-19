@@ -1,3 +1,4 @@
 # CLI-Based-Chat-Tool
-The tool will support multiple chat rooms and can be used to communicate with multiple users on a network.
-Learn and implement socket programming as well as client-server architecture using python. 
+Developed a command-line interface (CLI) based chat tool using Python, socket programming, and client-server architecture.
+Supported multiple chat rooms and facilitated communication with multiple users on a network.
+Implemented robust network communication protocols to ensure reliable data transfer and real-time messaging.
